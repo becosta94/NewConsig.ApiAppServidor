@@ -19,3 +19,9 @@
 *.editorconfig
 *.htm
 *.Up2Date
+/src/NewConsig.ApiAppServidor.Api/bin/Release/net8.0/NewConsig.ApiAppServidor.Api.exe
+/src/NewConsig.ApiAppServidor.Api/obj/Release/net8.0/apphost.exe
+/.vs/NewConsig.ApiAppServidor/v17/.suo
+/src/NewConsig.ApiAppServidor.Api/obj/Release/net8.0/NewConsig.ApiAppServidor.Api.AssemblyInfo.cs
+/src/NewConsig.ApiAppServidor.Api/obj/Release/net8.0/PubTmp/Out/NewConsig.ApiAppServidor.Api.exe
+/src/NewConsig.ApiAppServidor.Api/Properties/PublishProfiles/FolderProfile.pubxml.user
