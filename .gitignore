@@ -1,0 +1,21 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+*.db-shm
+*.db-wal
+*.vsidx
+*.cache
+*.BuildWithSkipAnalyzers
+*.txt
+*.dll
+*.json
+*.props
+*.pdb
+*.bin
+*.v2
+*.db
+*.targets
+*.editorconfig
+*.htm
+*.Up2Date
